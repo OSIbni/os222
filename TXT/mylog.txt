@@ -1,0 +1,7 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+zczc WEEK00 10 L10 assignment all subject
+zczc WEEK00 360 L70 Mostly spend for alin
+zczc WEEK00 240 L71 Social media PIC and brainstorming for an event
+zczc WEEK00 120 L87 dinner arround kutek
