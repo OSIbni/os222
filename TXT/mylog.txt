@@ -5,3 +5,17 @@ zczc WEEK00 10 L10 assignment all subject
 zczc WEEK00 360 L70 Mostly spend for alin
 zczc WEEK00 240 L71 Social media PIC and brainstorming for an event
 zczc WEEK00 120 L87 dinner arround kutek
+zczc WEEK01 300 L01 for all subject
+zczc WEEK01 200 L02 OS because online class
+zczc WEEK01 60 L03 OS and PBP because using git
+zczc WEEK01 15 L04 checking github pages
+zczc WEEK01 120 L05 OS and SDA quiz
+zczc WEEK01 120 L06 searching about git and os
+zczc WEEK01 120 L08 chat with my friend about this week assignmet
+zczc WEEK01 360 L11 doing OS assignment
+zczc WEEK01 30 L27 first time using SSH, key-gen, putty
+zczc WEEK01 90 L31 installing twice
+zczc WEEK01 15 L41 fill and read mylog.txt
+zczc WEEK01 60 L70 study about subject in term 3
+zczc WEEK01 120 L72 doing social service organization
+zczc WEEK01 120 L87 dinner arround kutek
