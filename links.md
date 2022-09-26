@@ -1,4 +1,5 @@
-link: /LINKS/
+---
+permalink: /LINKS/
 ---
 
 # LINKS
