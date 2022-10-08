@@ -47,3 +47,12 @@ menjelaskan tentang memory management yang ada di OS. menjelaskan tentang contig
 web ini menjelaskan tentang alokasi memori secara dalam. web ini sangat mudah dibaca karena terdapat penjelasan dan penggambaran yang mudah dipahami. jika ingin mengerti lebih dalam tentang alokasi memori pada OS dapat membaca web ini
 3. [Pointer pada C](https://www.youtube.com/watch?v=f2i0CnUOniA)<br>
 video youtube ini menjelaskan tentang pointers pada C. video ini saya rekomendasikan karena dapat memahami pointer pada c secara konseptual dan dasar sehingga memudahkan dalam subject OS ini
+
+
+## Week 05
+1. [virtual memory website](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html)<br>
+ini merupakan website tentang virtual memory. pasti dari kita semua kesulitan memahaminya apalagi tanpa sebuah visualisasi. dalam website ini memberikan visualisasi yang memudahkan kita dalam memahami virtual memory
+2. [thrashing dalam Sistem Operasi](https://www.studytonight.com/operating-system/thrashing-in-operating-system)<br>
+web ini menjelaskan tentang thrashing di sebuah OS. akan tetapi, apakah kalian mengerti tentang thrashing secara dalam? jika belum, web ini sangat tepat untuk kalian baca karena memberikan penjelasan yang sangat baik dan dalam untuk memahami thrashing dalam sebuah OS
+3. [physical memory](https://www.sciencedirect.com/topics/computer-science/physical-memory)<br>
+mungkin dari kita sudah mengenal dan mempelajari tentang memori dari mata kuliah yang pernah kita ikuti sebelumnya, yaitu POK. web ini dapat mengingatkan kita tentang materi RAM atau memori. karena OS memiliki syarat POK maka tentu saja berhubungan. oleh karena itu, web ini berfungsi mengingatkan kalian tentang memori agar kalian memudahkan dalam mempelajari OS.
