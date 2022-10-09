@@ -94,4 +94,30 @@ ZCZC W04 30 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W04 240 L84 Relax, Rest, Nap, and Sleep
 ZCZC W04 120 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC W04 600 L98 Else that is not related with this Operating Systems class.
-
+ZCZC W05 376 L00 General, etc.
+ZCZC W05 204 L01 SCELE/Discord related
+ZCZC W05 215 L02 ZOOM meetings related
+ZCZC W05 75 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 22 L04 GitHub Pages related
+ZCZC W05 63 L05 Quiz related including studying
+ZCZC W05 95 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 35 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W05 120 L09 Assignment in General
+ZCZC W05 105 L15 Assignment #05
+ZCZC W05 183 L21 Trying something
+ZCZC W05 43 L24 Scripting in general.
+ZCZC W05 20 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 15 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W05 62 L40 TXT/ related in general.
+ZCZC W05 17 L41 TXT/mylog.txt related.
+ZCZC W05 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 15 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W05 20 L45 TXT/SHA256SUM related
+ZCZC W05 15 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
+ZCZC W05 420 L70 Studying for other courses.
+ZCZC W05 100 L71 Working (General)
+ZCZC W05 80 L72 Online Related Job, merchant, etc.
+ZCZC W05 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W05 200 L84 Relax, Rest, Nap, and Sleep
+ZCZC W05 120 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W05 550 L98 Else that is not related with this Operating Systems class.
