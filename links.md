@@ -56,3 +56,11 @@ ini merupakan website tentang virtual memory. pasti dari kita semua kesulitan me
 web ini menjelaskan tentang thrashing di sebuah OS. akan tetapi, apakah kalian mengerti tentang thrashing secara dalam? jika belum, web ini sangat tepat untuk kalian baca karena memberikan penjelasan yang sangat baik dan dalam untuk memahami thrashing dalam sebuah OS
 3. [physical memory](https://www.sciencedirect.com/topics/computer-science/physical-memory)<br>
 mungkin dari kita sudah mengenal dan mempelajari tentang memori dari mata kuliah yang pernah kita ikuti sebelumnya, yaitu POK. web ini dapat mengingatkan kita tentang materi RAM atau memori. karena OS memiliki syarat POK maka tentu saja berhubungan. oleh karena itu, web ini berfungsi mengingatkan kalian tentang memori agar kalian memudahkan dalam mempelajari OS.
+
+## Week 06
+1. [proses sinkronisasi & deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
+web ini sangat bagus, karena dengan adanya web ini kita jadi memahami proses sinkronisasi dan keadaan deadlock. dengan demikian, kalian akan memahami week ini dengan lebih mudah dan membantu anda dalam memahami demo OS
+2. [pemahaman tentang threads](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
+Video youtube ini merupakan video yang menjelaskan tentang threads. tentu saja, dalam minggu ini kita memahami tentang threads. tapi, kita pasti memerlukan suplemen tambahan untuk memahami tentang threads ini. dengan menonton video ini, kita akan memahami dasar-dasar dari threads.
+3. [pengenalan semafor](https://www.studytonight.com/operating-system/introduction-to-semaphores)<br>
+Artikel ini memberikan penjelasan tentang semafor dalam Sistem Operasi. Semafor dijelaskan sebagai variabel yang hanya dapat menampung nilai Integer non-negatif, dibagi di antara semua utas, dengan operasi menunggu dan memberi sinyal. Ada juga beberapa contoh kode dalam artikel ini.
