@@ -58,6 +58,14 @@ web ini menjelaskan tentang thrashing di sebuah OS. akan tetapi, apakah kalian m
 mungkin dari kita sudah mengenal dan mempelajari tentang memori dari mata kuliah yang pernah kita ikuti sebelumnya, yaitu POK. web ini dapat mengingatkan kita tentang materi RAM atau memori. karena OS memiliki syarat POK maka tentu saja berhubungan. oleh karena itu, web ini berfungsi mengingatkan kalian tentang memori agar kalian memudahkan dalam mempelajari OS.
 
 ## Week 06
+1. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)<br>
+“Apa itu fork() di C? Bagaimana cara kerja Fork()?” Kita bisa mendapatkan jawaban atas pertanyaan-pertanyaan itu dari artikel ini. Artikel ini memberikan penjelasan yang bagus tentang fork() dengan beberapa contoh kode dan gambar yang dapat membantu kita lebih memahami tentang fork().
+2. [Multithreading and concurrency fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)<br>
+Artikel ini menjelaskan tentang pemrograman konkurensi dan multi-threading secara singkat. Jika Anda lebih suka membaca artikel daripada menonton video, artikel ini cocok untuk Anda. Saya merekomendasikan artikel ini sebagai alternatif memulai dalam mempelajari multithread dan konkurensi karena penjelasannya cukup jelas :)
+3. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)br>
+Situs web ini… agak unik karena Situs web ini pada dasarnya adalah kumpulan catatan untuk kursus sistem operasi. Artikel ini memiliki penjelasan teknis dan visualisasi yang baik dan menggambarkan konkurensi secara menyeluruh. Saya merekomendasikan "catatan" ini jika Anda benar-benar ingin meningkatkan pengetahuan Anda tentang konkurensi.
+
+## Week 07
 1. [proses sinkronisasi & deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
 web ini sangat bagus, karena dengan adanya web ini kita jadi memahami proses sinkronisasi dan keadaan deadlock. dengan demikian, kalian akan memahami week ini dengan lebih mudah dan membantu anda dalam memahami demo OS
 2. [pemahaman tentang threads](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
