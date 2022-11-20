@@ -72,3 +72,11 @@ web ini sangat bagus, karena dengan adanya web ini kita jadi memahami proses sin
 Video youtube ini merupakan video yang menjelaskan tentang threads. tentu saja, dalam minggu ini kita memahami tentang threads. tapi, kita pasti memerlukan suplemen tambahan untuk memahami tentang threads ini. dengan menonton video ini, kita akan memahami dasar-dasar dari threads.
 3. [pengenalan semafor](https://www.studytonight.com/operating-system/introduction-to-semaphores)<br>
 Artikel ini memberikan penjelasan tentang semafor dalam Sistem Operasi. Semafor dijelaskan sebagai variabel yang hanya dapat menampung nilai Integer non-negatif, dibagi di antara semua utas, dengan operasi menunggu dan memberi sinyal. Ada juga beberapa contoh kode dalam artikel ini.
+
+## Week 08
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+Web ini sangat bagus karena sangat menjelaskan tentang linux from scratch, bahkan dengan membaca ini anda akan menjadi expert dalam linux from scratch. Web ini sangat lengkap dalam memberikan informasi dan mudah dipahami. akan tetapi, web ini memiliki tampilan yang kurang cukup, jadi jika ingin menjadi expert dalam linux from scratch jangan membaca langsung sekaligus karena akan pusing dan gak waras.
+2. [multiple-processor scheduling dalam OS](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+pada minggu ini kita belajar scheduling. terdapat macam-macam scheduling yang ada dalam OS. disini, berbeda dengan web sebelumnya, Geeks for Geeks memiliki informasi yang sangat bagus dan mudah dipahami. tampilannya juga sangat bagus dan enak dibaca. oleh karena itu, web ini sangat bagus untuk mempelajari scheduling yang ada dalam OS
+3. [Meme LFS yang membuat bahagia](https://www.youtube.com/watch?v=6p3e3vii4aQ)<br>
+minggu ini kita terbantai oleh tugas-tugas apalagi dengan memasang LFS. bahkan author saja memasang lebih dari 12 jam. dengan demikian meme ini semoga membuat kalian bahagia dan happy kembali :) semoga meme ini bisa membuat kalian kembali merasakan senangnya hidup. Jangan lupa bahagia gaes.
