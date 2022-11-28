@@ -80,3 +80,11 @@ Web ini sangat bagus karena sangat menjelaskan tentang linux from scratch, bahka
 pada minggu ini kita belajar scheduling. terdapat macam-macam scheduling yang ada dalam OS. disini, berbeda dengan web sebelumnya, Geeks for Geeks memiliki informasi yang sangat bagus dan mudah dipahami. tampilannya juga sangat bagus dan enak dibaca. oleh karena itu, web ini sangat bagus untuk mempelajari scheduling yang ada dalam OS
 3. [Meme LFS yang membuat bahagia](https://www.youtube.com/watch?v=6p3e3vii4aQ)<br>
 minggu ini kita terbantai oleh tugas-tugas apalagi dengan memasang LFS. bahkan author saja memasang lebih dari 12 jam. dengan demikian meme ini semoga membuat kalian bahagia dan happy kembali :) semoga meme ini bisa membuat kalian kembali merasakan senangnya hidup. Jangan lupa bahagia gaes.
+
+## Week 09
+1. [Introduction to RAID, Concepts of RAID and RAID Levels in Linux](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+You can get to know about RAID in Linux in this article. RAID is explained as a Redundant Array of Inexpensive disks, but nowadays it is called Redundant Array of Independent drives. Earlier it is used to be very costly to buy even a smaller size of disk, but nowadays we can buy a large size of disk with the same amount like before. Raid is just a collection of disks in a pool to become a logical volume. There are two types of Raid, software and hardware.
+2. [What is BIOS?](https://www.youtube.com/watch?v=ncUmWthHrU0)<br>
+This video explain about basic Input/Output System In computing. BIOS is firmware used to perform hardware initialization during the booting process, and to provide runtime services for operating systems and programs. The BIOS firmware comes pre-installed on a personal computer’s system board, and it is the first software to run when powered on.
+3. [LFS first impression: waste of time?](https://www.youtube.com/watch?v=1eOdaXS-wVE)<br>
+FI LFS dari seorang youtuber merasa bahwa itu adalah waste of time. tapi betulkah wasting time baginya? kalo bagi saya sih iya wkwk. tapi, bener gak sih itu wasting time. yuk ditonton!
